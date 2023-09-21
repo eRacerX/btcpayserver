@@ -1,4 +1,4 @@
-# BTCPay Server
+# BTCPay Server eRacerX
 
 ![BTCPay Server](BTCPayServer/wwwroot/img/btc_pay_BG_twitter.png)
 
